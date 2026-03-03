@@ -10,13 +10,13 @@ Il permet de gagner du temps en évitant la question quotidienne :
 Pour le compiler: 
 
 ```bash
-g++ main.cpp -o laoka
+g++ laoka_anio.cpp -o test
 ```
 
 Pour executer:
 
 ```bash
-./laoka
+./test
 ```
 
 
